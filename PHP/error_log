@@ -1,0 +1,29 @@
+[28-Mar-2015 16:54:03 America/New_York] PHP Parse error:  syntax error, unexpected T_STRING in /home/rotarac3/public_html/bidn/dbcon.php on line 14
+[28-Mar-2015 16:54:52 America/New_York] PHP Parse error:  syntax error, unexpected T_STRING in /home/rotarac3/public_html/bidn/dbcon.php on line 14
+[28-Mar-2015 16:56:00 America/New_York] PHP Warning:  mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (42000/1044): Access denied for user 'rotarac3_gcmreg'@'localhost' to database 'bidn' in /home/rotarac3/public_html/bidn/dbcon.php on line 8
+[28-Mar-2015 16:57:17 America/New_York] PHP Warning:  mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (42000/1044): Access denied for user 'rotarac3_bidn'@'localhost' to database 'bidn' in /home/rotarac3/public_html/bidn/dbcon.php on line 8
+[28-Mar-2015 17:18:21 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/rotarac3/public_html/bidn/updateuser.php on line 9
+[28-Mar-2015 17:19:49 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/rotarac3/public_html/bidn/updateuser.php on line 11
+[28-Mar-2015 17:21:53 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/rotarac3/public_html/bidn/updateuser.php on line 11
+[28-Mar-2015 17:23:10 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/rotarac3/public_html/bidn/updateuser.php on line 11
+[28-Mar-2015 17:23:26 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/rotarac3/public_html/bidn/updateuser.php on line 11
+[28-Mar-2015 17:23:50 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/rotarac3/public_html/bidn/updateuser.php on line 22
+[28-Mar-2015 17:25:02 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/rotarac3/public_html/bidn/updateuser.php on line 22
+[28-Mar-2015 18:33:15 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/rotarac3/public_html/bidn/updateuser.php on line 22
+[28-Mar-2015 20:52:26 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/rotarac3/public_html/bidn/updatebus.php on line 21
+[28-Mar-2015 20:52:33 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/rotarac3/public_html/bidn/updatebus.php on line 21
+[28-Mar-2015 20:52:46 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/rotarac3/public_html/bidn/updatebus.php on line 21
+[28-Mar-2015 20:52:52 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/rotarac3/public_html/bidn/updatebus.php on line 21
+[28-Mar-2015 20:52:58 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/rotarac3/public_html/bidn/updatebus.php on line 21
+[28-Mar-2015 20:53:05 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/rotarac3/public_html/bidn/updatebus.php on line 21
+[28-Mar-2015 20:53:11 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/rotarac3/public_html/bidn/updatebus.php on line 21
+[28-Mar-2015 20:53:18 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/rotarac3/public_html/bidn/updatebus.php on line 21
+[28-Mar-2015 20:53:26 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/rotarac3/public_html/bidn/updatebus.php on line 21
+[28-Mar-2015 20:53:34 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/rotarac3/public_html/bidn/updatebus.php on line 21
+[28-Mar-2015 20:53:41 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/rotarac3/public_html/bidn/updatebus.php on line 21
+[28-Mar-2015 20:53:48 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/rotarac3/public_html/bidn/updatebus.php on line 21
+[28-Mar-2015 20:54:04 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/rotarac3/public_html/bidn/updatebus.php on line 21
+[28-Mar-2015 20:54:10 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/rotarac3/public_html/bidn/updatebus.php on line 21
+[28-Mar-2015 20:54:20 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/rotarac3/public_html/bidn/updatebus.php on line 21
+[28-Mar-2015 20:54:28 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/rotarac3/public_html/bidn/updatebus.php on line 21
+[28-Mar-2015 20:54:34 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/rotarac3/public_html/bidn/updatebus.php on line 21
